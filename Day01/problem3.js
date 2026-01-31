@@ -1,3 +1,4 @@
+// sum of  1 -> n
 let n = 10;
 let sum = 0;
 
