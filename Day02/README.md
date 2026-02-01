@@ -35,3 +35,6 @@ kr saka ka inka remainder kya bachta hai
     console.log("chakar : " , chakar)
     chakar ++
  }
+
+
+ problem 1 count of digits and problem 2 solved with approaches

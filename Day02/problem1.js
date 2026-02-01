@@ -63,3 +63,4 @@ console.log("sum of digits : " , sum);
 // iteration 4 - number > 0 yani 0 na bara hai na chota hai condition false hogai 
 // loop break - sum of digits show hojai ga 
 
+
