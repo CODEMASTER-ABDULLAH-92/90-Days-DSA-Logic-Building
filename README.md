@@ -8,3 +8,6 @@ Day 2 : modulo , while loop
 
 Day 3 : number logics 
         problems : reverse number , check number is palindrome
+
+Day 4 : math basics 
+        problems : factorial , fibonacci
