@@ -11,3 +11,7 @@ Day 3 : number logics
 
 Day 4 : math basics 
         problems : factorial , fibonacci
+
+Day 5 : prime number logic
+        problems : check prime number , print prime 1 to 100
+
