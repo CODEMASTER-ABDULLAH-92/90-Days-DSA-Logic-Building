@@ -13,7 +13,7 @@ console.log(fact);
 // fibonacci series ek sequence ki series hai mtlb ke har naya number pichla 2 numbers ka sum
 // ho ke banta hai 
 // sequence dekhna hai 5 ,10 ,15 , 20 , 25 ....... 
-let number = 100;
+let number = 125;
 let a = 5;
 let b = 10;
 let c = 0;

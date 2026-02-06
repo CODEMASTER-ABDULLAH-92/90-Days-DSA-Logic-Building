@@ -14,4 +14,8 @@ Day 4 : math basics
 
 Day 5 : prime number logic
         problems : check prime number , print prime 1 to 100
+Day 6 : nested loops 
+        problems : square pattern , right triangle pattern
+
+Day 7 : Revision Day of all the logics 
 
