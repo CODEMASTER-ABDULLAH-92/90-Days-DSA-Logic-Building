@@ -22,5 +22,7 @@ Day 7 : Revision Day of all the logics
 
  --------------------------------------------------------------------------------------------------------------------------
 
- 
+Day 8 : Functions basics
+        problems : sum function , max of 2 numbers
+
 
