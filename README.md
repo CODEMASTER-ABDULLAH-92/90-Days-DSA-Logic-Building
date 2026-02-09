@@ -28,3 +28,4 @@ Day 8 : Functions basics
 Day 9 : Parameters and return
         problems : calculator using functions
 
+Day 10 : Power (x, n) and Count digits using functions 
