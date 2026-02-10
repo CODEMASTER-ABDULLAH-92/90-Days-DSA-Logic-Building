@@ -29,3 +29,6 @@ Day 9 : Parameters and return
         problems : calculator using functions
 
 Day 10 : Power (x, n) and Count digits using functions 
+
+Day 11 : Array Intro
+         Problems : traversal and sum of array
