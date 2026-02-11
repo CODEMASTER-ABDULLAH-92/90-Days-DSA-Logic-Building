@@ -32,3 +32,6 @@ Day 10 : Power (x, n) and Count digits using functions
 
 Day 11 : Array Intro
          Problems : traversal and sum of array
+
+Day 12 : Array Intro
+         Problems : largest and second largest element in array
