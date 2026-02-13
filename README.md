@@ -38,3 +38,6 @@ Day 12 : Array Intro
 
 Day 13 : Array Intro
          Problems : reverse an array
+
+Day 14 : Array Frequency 
+        Problems: Count frequency of an array 
