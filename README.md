@@ -41,5 +41,8 @@ Problems : reverse an array
 Day 14 : Array Frequency
 Problems: Count frequency of an array
 
-Day 15: Array Frequency
+Day 15: Two Sum 
 Problems: two sum problem , equal to target
+
+Day 16: Maximum Subarray 
+Problems: MAXIMUM of Subarray 
