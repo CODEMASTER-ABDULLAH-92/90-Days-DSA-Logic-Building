@@ -46,3 +46,6 @@ Problems: two sum problem , equal to target
 
 Day 16: Maximum Subarray 
 Problems: MAXIMUM of Subarray 
+
+Day 17 : Two Pointer 
+Problems : Valid Palindrome 
