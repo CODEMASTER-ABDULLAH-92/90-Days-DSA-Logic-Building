@@ -41,15 +41,17 @@ Problems : reverse an array
 Day 14 : Array Frequency
 Problems: Count frequency of an array
 
-Day 15: Two Sum 
+Day 15: Two Sum
 Problems: two sum problem , equal to target
 
-Day 16: Maximum Subarray 
-Problems: MAXIMUM of Subarray 
+Day 16: Maximum Subarray
+Problems: MAXIMUM of Subarray
 
-Day 17 : Two Pointer 
-Problems : Valid Palindrome 
+Day 17 : Two Pointer
+Problems : Valid Palindrome
 
-Day 18 : Container with most water 
+Day 18 : Container with most water
 Problems : Calculate container which contains more water
 
+Day 19 : Two Sum with Target of 2 indecies
+Problems : calculate the target with 2 indecies in an array.
